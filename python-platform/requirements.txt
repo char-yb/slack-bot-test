@@ -1,0 +1,7 @@
+# pip3 freeze > requirements.txt로 pip3 install한 라이브러리 목록을 저장
+# 저장된 라이브러리는 pip3 install -r requirements.txt로 한번에 설치 가능
+# 가상환경 실행은 source .deoksoon/bin/activate
+# 가상환경 종료는 deactivate
+
+slack_bolt==1.22.0
+slack_sdk==3.34.0
